@@ -5,12 +5,14 @@ What happens when you initialize a repository? Why do you need to do it?
 	made to your work. We need to initialize a repository because it does not
 	exist.
 
+
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
 
 	Staging area is where the index of changes gets built up so that they can 
 	be committed together. It provides for the better control of the version
 	control.
+
 
 How can you use the staging area to make sure you have one commit per logical
 change?
@@ -19,6 +21,7 @@ change?
 	the changes are being made to it. When I have made the logical change to
 	the file, I can then choose to make the commit.
 
+
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
@@ -26,9 +29,17 @@ organized? How would branches help?
 	or when trying something dramatically different with the code. Having
 	branches would keep my original files intact.
 
+
 How do the diagrams help you visualize the branch structure?
 
 	They help me understand how the branches are conneced with respect to 
 	each other and their relationship to each other.
 
- 
+
+What is the result of merging two branches together? Why do we represent it 
+in the diagram the way we do?
+
+	The result of merging two branches together is such that the changes from
+	both branches merge back into one branch. 
+
+
