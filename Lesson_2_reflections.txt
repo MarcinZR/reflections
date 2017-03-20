@@ -26,4 +26,9 @@ organized? How would branches help?
 	or when trying something dramatically different with the code. Having
 	branches would keep my original files intact.
 
+How do the diagrams help you visualize the branch structure?
+
+	They help me understand how the branches are conneced with respect to 
+	each other and their relationship to each other.
+
  
