@@ -19,3 +19,11 @@ change?
 	the changes are being made to it. When I have made the logical change to
 	the file, I can then choose to make the commit.
 
+What are some situations when branches would be helpful in keeping your history
+organized? How would branches help?
+
+	Having branches would be helpful if I tried new features in the program 
+	or when trying something dramatically different with the code. Having
+	branches would keep my original files intact.
+
+ 
