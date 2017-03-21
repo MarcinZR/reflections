@@ -43,3 +43,10 @@ in the diagram the way we do?
 	both branches merge back into one branch. 
 
 
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+	Git's auto merge is a time saver for the programmer, it can however cause 
+	problems by merging branches that had incompatible code changes, resulting
+	in a broken program. After merging, code should be checked to make sure
+	the program works properly.
+	
