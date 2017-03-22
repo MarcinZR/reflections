@@ -23,5 +23,6 @@ instead of another?
   of the GitHub.
   Clone - is taking an existing repository and making a duplicate of it. This can be done
   on local repository or GitHub to local.
-  Branch - happen on a single repository and they remain part of the original repository.
+  Branch - happens on a single repository and they (branches) remain part of the original 
+  repository.
 
