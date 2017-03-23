@@ -44,3 +44,10 @@ would be harder?
    If this option was not available, it would be much more time consuming to manage any 
    project and if the project got big enough, it could get really messy if impossible to 
    manage at all.
+
+When would you want to make changes in a separate branch rather than directly in master? 
+What benefits does each approach have?
+
+  Separate branch is good to use when code changes are being made and the original code
+  needs to be kept intact. Making changes in a separate branch is more complicated than
+  working directly in master, even more so when others are making changes too.
