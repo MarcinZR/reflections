@@ -33,8 +33,8 @@ What is the benefit of having a copy of the last known state of the remote store
   might be offline for some time and need to make your own changes to the code. You can
   then compare them with the remote state stored locally.
 
- How would you collaborate without using Git or GitHub? What would be easier, and what 
- would be harder?
+How would you collaborate without using Git or GitHub? What would be easier, and what 
+would be harder?
 
    There are other source code hosts out there like Bitbucket, Sourceforge, Gitlab, Kiln,
    Codeplane, Code Plex, Beanstalk to name a few. Some are free, some are paid. They can
@@ -44,4 +44,3 @@ What is the benefit of having a copy of the last known state of the remote store
    If this option was not available, it would be much more time consuming to manage any 
    project and if the project got big enough, it could get really messy if impossible to 
    manage at all.
-    
