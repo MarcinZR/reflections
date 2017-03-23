@@ -26,3 +26,8 @@ instead of another?
   Branch - happens on a single repository and they (branches) remain part of the original 
   repository.
 
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+  The benefit of storing the last known state of the remote locally is useful where you 
+  might be offline for some time and need to make your own changes to the code. You can
+  then compare them with the remote state stored locally.
