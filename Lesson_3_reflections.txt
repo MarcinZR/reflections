@@ -26,8 +26,22 @@ instead of another?
   Branch - happens on a single repository and they (branches) remain part of the original 
   repository.
 
+
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
   The benefit of storing the last known state of the remote locally is useful where you 
   might be offline for some time and need to make your own changes to the code. You can
   then compare them with the remote state stored locally.
+
+ How would you collaborate without using Git or GitHub? What would be easier, and what 
+ would be harder?
+
+   There are other source code hosts out there like Bitbucket, Sourceforge, Gitlab, Kiln,
+   Codeplane, Code Plex, Beanstalk to name a few. Some are free, some are paid. They can
+   be used as alternatives to GitHub. However, if none of them would be available, having
+   a local network share with remote access could work. It would need to run a software 
+   similar to GitHub in order to manage the repositories and users and make it effective.
+   If this option was not available, it would be much more time consuming to manage any 
+   project and if the project got big enough, it could get really messy if impossible to 
+   manage at all.
+    
